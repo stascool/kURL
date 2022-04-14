@@ -357,6 +357,7 @@ module.exports.InstallerVersions = {
   ],
   sonobuoy: [
     // cron-sonobuoy-update
+    "0.56.4",
     "0.55.1",
     "0.53.0",
     "0.52.0",
